@@ -1,0 +1,285 @@
+End of Course Assessment
+
+1.Question 1
+What AWS service provides consulting, support, training, and service credits with the goal to reduce risks associated with migrating to the cloud?
+
+AWS Migration Assistance
+AWS Migration Hub
+AWS Migration Consulting Program
+AWS Migration Acceleration Program
+
+Correct
+AWS Migration Acceleration Program
+
+2.Question 2
+In which phase do you analyze the dependencies between your applications and begin to think about which migration type is most suitable for each dependency?
+
+Phase 1: Migration Preparation and Business Planning
+Phase 2: Portfolio Discovery and Planning
+Phase 3 and 4: Designing, Migrating, and Validating Application
+Phase 5: Operate
+
+Correct
+Phase 2: Portfolio Discovery and Planning
+
+3.Question 3
+What AWS migration service converts any application running on a supported operating system to enable full functionality on AWS without compatibility issues?
+
+AWS Cloud Migration Technologies
+AWS Schema Migration Service
+AWS Migration Hub
+CloudEndure Migration
+
+Correct
+CloudEndure Migration
+
+4.Question 4
+Which type of scaling gives you the ability to add more servers in order to distribute load across resources and maintain operations without overloading any singular resource?
+
+Vertical scaling
+Horizontal scaling
+Add-in scaling
+Component Scaling
+
+Correct
+Horizontal scaling
+
+5.Question 5
+What is a primary best practice to follow when building and optimizing your migrated environment in AWS?
+
+Amazon Simple Storage Service provides fast and reliable block storage mounted to your Amazon Elastic Cloud Compute instance
+AWS Direct Connect is needed to enable region-to-region connectivity
+AWS Migration Hub provides automatic multi-AZ setup
+Avoid single points of failure
+Multi-region architectures are required for optimization
+
+Correct
+Avoid single points of failure
+
+6.Question 6
+What AWS service provides a single location to track the progress of application migrations across multiple AWS and partner solutions?
+
+AWS DataSync
+AWS Server Migration Service
+AWS Application Discovery Service
+AWS Migration Hub
+
+Correct
+AWS Migration Hub
+
+7.Question 7
+What are the benefits of leveraging AWS SMS to manage your server migration? Select 3 answers.
+
+Automate the migration of your on-premises VMware vSphere, Microsoft Hyper-V/SCVMM, and Azure virtual machines to the AWS Cloud
+Track incremental replications of your VMs
+Schedule the replication of your servers
+Create an open tunnel between your on-premise and AWS environments
+
+Correct
+Automate the migration of your on-premises VMware vSphere, Microsoft Hyper-V/SCVMM, and Azure virtual machines to the AWS Cloud
+Track incremental replications of your VMs
+Schedule the replication of your servers
+
+8.Question 8
+What AWS service gives you the ability to control the amount of traffic going to multiple DNS endpoints?
+
+Amazon Simple Storage Service
+Amazon CloudFront
+Amazon Route 53
+AWS Direct Connect
+
+Correct
+Amazon Route 53
+
+9.Question 9
+Which of the following choices are part of the 6 Rs discussed in the course? Select 3 answers.
+
+Recycle
+Reuse
+Rehost
+Replatform
+Reduce
+Retain
+
+Correct
+Rehost
+Replatform
+Retain
+
+10.Question 10
+What Software as a Service (SaaS) migration offering from AWS allows your applications to continue running at the source without downtime or performance impact, and allows you to run non-disruptive tests to validate that the replicated applications work properly in AWS?
+
+CloudEndure Migration
+AWS Migration Hub
+AWS Server Migration Service
+AWS Cloud Migration Technologies
+
+Correct
+CloudEndure Migration
+
+11.Question 11
+What are the six (6) perspectives presented in the Cloud Adoption Framework?
+
+Business, Team, Governance, Architecture, Security, Operations
+Business, People, Governance, Platform, Security, Operations
+Business, People, Compliance, Architecture, Security, Operations
+Business, Team, Compliance, Architecture, Security, DevOps
+
+Correct
+Business, People, Governance, Platform, Security, Operations
+
+12.Question 12
+What is horizontal scaling?
+
+Adding additional resources to a component to make it more capable
+Adding more storage to a resource to make it more elastic
+Using Amazon Route 53 to distribute traffic across multiple endpoints
+Adding and removing components, such as servers, to adjust to changes in demand
+
+Correct
+Adding and removing components, such as servers, to adjust to changes in demand
+
+13.Question 13
+True or false: Adding more memory to an Amazon Elastic Compute Cloud (Amazon EC2) instance is an example of horizontal scaling.
+
+True
+False
+
+Correct
+False
+
+14.Question 14
+Which of the 6 Rs discussed in the course can be referred to as “life, tinker, and shift”?
+
+Rehost
+Replatform
+Rearchitect
+Reuse
+
+Correct
+Replatform
+
+15.Question 15
+Which AWS tool can be installed locally or on an instance to provide direct API access for management, building, and optimization tasks within AWS?
+
+AWS Service Catalog
+AWS Management Console
+AWS Command Line Interface
+AWS Service Console
+
+Correct
+AWS Command Line Interface
+
+16.Question 16
+Which AWS program allows companies in the Partner Network to demonstrate and prove their expertise in areas like Migrations?
+
+AWS Competency Program
+AWS Consulting Competency Program
+AWS Certifications
+AWS Partner Subject Matter Experts
+
+Correct
+AWS Competency Program
+
+17.Question 17
+What AWS service provides a physical device that can be connected directly to your data center network can leverage the local network to copy data, can hold up to 80 Terabytes, and is protected by AWS Key Management Service to encrypt your data?
+
+AWS Snowmobile
+AWS Avalanche
+AWS Snowman
+AWS Snowball
+
+Correct
+AWS Snowball
+
+18.Question 18
+True or false: You can use DMS to directly migrate your on-premises database to another on-premises database.
+
+True
+False
+
+Correct
+False
+
+19.Question 19
+Which AWS service can be used to help convert Stored Procedure code in Oracle and SQL Server to equivalent code in the Amazon Aurora MySQL dialect of SQL?
+
+Amazon Relational Database Service
+AWS Schema Conversion Tool
+AWS Database Translation Service
+Amazon Database Transfiguration Service
+
+Correct
+AWS Schema Conversion Tool
+
+20.Question 20
+AWS Direct Connect allows you to do which of the following? Select 2 answers.
+
+Create public virtual interfaces to connect with services like Amazon Simple Storage Service
+Create a corporate backbone directly connecting multiple company data center locations and offices
+Connect Amazon Elastic Block Store (EBS) volumes directly to your on-premises servers
+Create private virtual interfaces to create VPN-like connections across your hybrid environment
+
+Correct
+Create public virtual interfaces to connect with services like Amazon Simple Storage Service
+Create private virtual interfaces to create VPN-like connections across your hybrid environment
+
+21.Question 21
+What does the AWS Server Migration Service (SMS) not help to migrate? Select 2 answers.
+
+VMware vSphere
+Microsoft Hyper-V/SCVMM
+Sunbeam Virtual Images (SVI)
+Amazon Elastic Block Store (EBS) volumes
+
+Correct
+Sunbeam Virtual Images (SVI)
+Amazon Elastic Block Store (EBS) volumes
+
+22.Question 22
+In regards to security in and between environments while migrating, in what areas can encryption be beneficial? Select 2 answers.
+
+Customer Gateway configuration
+Data in transit
+Data at rest
+Virtual Gateway configuration
+
+Correct
+Data in transit
+Data at rest
+
+23.Question 23
+True or false: There are many Migration Partners available to help you to better operate in the cloud, and become more proficient in your migrations. These companies have expertise in all phases of the migration process, and can help with implementation, planning, or even training on migration technologies.
+
+True
+False
+
+Correct
+True
+
+24.Question 24
+In the course we discuss a 5-phase approach to migrating applications. The first 4 phases are:
+
+Phase 1: Migration Preparation and Business Planning
+Phase 2: Portfolio Discovery and Planning
+Phases 3 & 4: Designing, Migrating, and Validating. Applications
+What is the fifth (5th) phase?
+
+Phase 5: Run
+Phase 5: Optimize
+Phase 5: Operate
+Phase 5: Re-evaluate
+
+Correct
+Phase 5: Operate
+
+25.Question 25
+How can partners help with your migration to AWS?
+
+Spending more money always translates to better success
+They have built the knowledge up over years of experience working with, and helping other customers migrate to, AWS
+Using partners doesn’t need to be done because migrations are easy and don’t require much effort
+Partners have more certifications than non-partner organizations
+
+Correct
+They have built the knowledge up over years of experience working with, and helping other customers migrate to, AWS

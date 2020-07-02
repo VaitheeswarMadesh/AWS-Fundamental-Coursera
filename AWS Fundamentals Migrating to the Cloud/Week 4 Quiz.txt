@@ -1,0 +1,56 @@
+Week 4 Quiz
+
+1.Question 1
+What AWS service provides consulting, support, training, and service credits in order to reduce associated risks with migrating to the cloud?
+
+AWS Migration Assistance
+AWS Migration Hub
+AWS Migration Acceleration Program
+AWS Migration Consulting Program
+
+Correct
+AWS Migration Acceleration Program
+
+2.Question 2
+True or false: A large majority of AWS services and tools have directly accessible APIs that you can use for creating, configuring, and managing the services you employ.
+
+True
+False
+
+Correct
+True
+
+3.Question 3
+What AWS migration service converts any application running on a supported operating system to enable full functionality on AWS without compatibility issues?
+
+AWS Migration Hub
+CloudEndure Migration
+AWS Schema Migration Service
+AWS Cloud Migration Technologies
+
+Correct
+CloudEndure Migration
+
+4.Question 4
+True or false: TSO Logic provides discovery of your existing workloads to help identify what you consume in regards to compute, storage, database, and other resources to help you evaluate what your Total Cost of Ownership, or TCO, is for various applications.
+
+True
+False
+
+Correct
+True
+
+5.Question 5
+Which of the following choices are part of the 6 Rs discussed in the course? Select three.
+
+Reuse
+Recycle
+Reduce
+Rehost
+Retain
+Replatform
+
+Correct
+Rehost
+Retain
+Replatform

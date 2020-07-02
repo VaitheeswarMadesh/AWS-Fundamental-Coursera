@@ -1,0 +1,55 @@
+Week 3 Quiz
+
+1.Question 1
+True or false: VPN provides a secure connection between environments for transfer of data. 
+
+T​rue
+F​alse
+
+Correct
+True
+
+2.Question 2
+What AWS service gives you the ability to control the amount of traffic going to multiple DNS endpoints?
+
+AWS Direct Connect
+Amazon CloudFront
+Amazon Simple Storage Service
+Amazon Route 53
+
+Correct
+Amazon Route 53
+
+3.Question 3
+What AWS service helps you to perform schema changes while migrating your database?
+
+AWS Migration Hub
+AWS Database Migration Service
+AWS Schema Migration Service
+AWS Schema Conversion Tool
+
+Correct
+AWS Schema Conversion Tool
+
+4.Question 4
+What is a requirement when using AWS DataSync?
+
+Amazon Route 53
+AWS DataSync Agent
+AWS VPN
+AWS Direct Connect
+
+Correct
+AWS DataSync Agent
+
+5.Question 5
+What is a primary best practice to follow when building and optimizing your migrated environment in AWS?
+
+Avoid single points of failure
+Multi-region architectures are required for optimization
+AWS Migration Hub provides automatic multi-AZ setup
+Amazon Simple Storage Service provides fast and reliable block storage mounted to your Amazon Elastic Cloud Compute instance
+AWS Direct Connect is needed to enable region-to-region connectivity
+
+Correct
+Avoid single points of failure
