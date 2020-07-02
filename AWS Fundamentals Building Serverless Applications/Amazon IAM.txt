@@ -1,0 +1,19 @@
+IAM
+
+1.Question 1
+IAM roles provide authentication to login to your application.
+
+True
+False
+
+Correct
+False
+
+2.Question 2
+IAM Roles are associated with a specific user or group.
+
+True
+False
+
+Correct
+False

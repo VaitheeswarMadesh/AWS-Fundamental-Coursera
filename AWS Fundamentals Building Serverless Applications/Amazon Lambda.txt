@@ -1,0 +1,11 @@
+Amazon Lambda
+
+1.Question 1
+What is AWS Lambda?
+
+An event-driven, serverless computing platform that runs code in response to events and automatically manages the compute resources required by that code.
+A queuing service that automatically scales up and down.
+A fully managed data analytics service
+
+Correct
+An event-driven, serverless computing platform that runs code in response to events and automatically manages the compute resources required by that code.

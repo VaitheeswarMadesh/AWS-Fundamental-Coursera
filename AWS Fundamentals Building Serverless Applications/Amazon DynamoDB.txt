@@ -1,0 +1,23 @@
+Amazon DynamoDB
+
+1.Question 1
+Amazon DynamoDB is what type of database solution?
+
+Non-relational, NoSQL database
+Relational, SQL database
+
+Correct
+Non-relational, NoSQL database
+
+2.Question 2
+Select the two things that need to be provided when you are creating a table in DynamoDb.
+
+DB Subnet Group
+DB Cluster
+Sort key
+Table name
+Primary key
+
+Correct
+Table name
+Primary key

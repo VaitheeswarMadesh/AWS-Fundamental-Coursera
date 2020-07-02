@@ -1,0 +1,30 @@
+Amazon Lex
+
+1.Question 1
+What is an "intent"?
+
+An Amazon Lex feature that does natural langauge processing.
+The response from Amazon Lex back to the user.
+A particular goal that the user wants to achieve.
+
+Correct
+A particular goal that the user wants to achieve.
+
+2.Question 2
+What is a slot?
+
+Data that the user must provide to fulfill the intent.
+The response from Amazon Lex back to the user.
+
+Correct
+Data that the user must provide to fulfill the intent.
+
+3.Question 3
+What service does Amazon Lex use for text-to-speech?
+
+Amazon Alexa
+Amazon Rekognition
+Amazon Poly
+
+Correct
+Amazon Poly

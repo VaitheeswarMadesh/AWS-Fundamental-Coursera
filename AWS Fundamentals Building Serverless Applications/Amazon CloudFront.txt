@@ -1,0 +1,32 @@
+Amazon CloudFront
+
+1.Question 1
+From which of the following services can Amazon CloudFront retrieve content? Select all that apply.
+
+Amazon Lex
+Your own datacenter
+Amazon S3
+Amazon EC2
+
+Correct
+Your own datacenter
+Amazon S3
+Amazon EC2
+
+2.Question 2
+With Amazon CloudFront, your S3 bucket permissions must be Public Read Access.
+
+True
+False
+
+Correct
+False
+
+3.Question 3
+AWS WAF allows you to specify restrictions on access to content based upon IP address.
+
+True
+False
+
+Correct
+True

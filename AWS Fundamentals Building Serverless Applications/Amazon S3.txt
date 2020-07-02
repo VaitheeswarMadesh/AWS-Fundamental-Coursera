@@ -1,0 +1,10 @@
+Amazon S3
+
+1.Question 1
+Static websites created with Amazon S3 can be interactive.
+
+True
+False
+
+Correct
+True

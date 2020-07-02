@@ -1,0 +1,140 @@
+End of Course Assessment
+
+1.Question 1
+What is a slot?
+
+Data that the user must provide to fulfill the intent.
+The response from Amazon Lex back to the user.
+
+Correct
+Data that the user must provide to fulfill the intent.
+
+2.Question 2
+What is an "intent"?
+
+An Amazon Lex feature that does natural langauge processing.
+The response from Amazon Lex back to the user.
+A particular goal that the user wants to achieve.
+
+Correct
+A particular goal that the user wants to achieve.
+
+3.Question 3
+Static websites created with Amazon S3 can be interactive.
+
+True
+False
+
+Correct
+True
+
+4.Question 4
+What service does Amazon Lex use for text-to-speech?
+
+Amazon Alexa
+Amazon Rekognition
+Amazon Poly
+
+Correct
+Amazon Poly
+
+5.Question 5
+From which of the following services can Amazon CloudFront retrieve content? Select all that apply.
+
+Amazon S3
+Amazon Lex
+Your own datacenter
+Amazon EC2
+
+Correct
+Amazon S3
+Your own datacenter
+Amazon EC2
+
+6.Question 6
+AWS WAF allows you to specify restrictions on access to content based upon IP address.
+
+True
+False
+
+Correct
+True
+
+7.Question 7
+Amazon API Gateway is used to create a content distribution network.
+
+True
+False
+
+Correct
+False
+
+8.Question 8
+With Amazon CloudFront, your S3 bucket permissions must be Public Read Access.
+
+True
+False
+
+Correct
+False
+
+9.Question 9
+CORS is configured in which Amazon service?
+
+AWS Lambda
+Amazon API Gateway
+Amazon CloudFront
+Amazon S3
+
+Correct
+Amazon API Gateway
+
+10.Question 10
+IAM roles provide authentication to login to your application.
+
+True
+False
+
+Correct
+False
+
+11.Question 11
+What is AWS Lambda?
+
+A queuing service that automatically scales up and down.
+An event-driven, serverless computing platform that runs code in response to events and automatically manages the compute resources required by that code.
+A fully managed data analytics service
+
+Correct
+An event-driven, serverless computing platform that runs code in response to events and automatically manages the compute resources required by that code.
+
+12.Question 12
+Select the two things that need to be provided when you are creating a table in DynamoDb.
+
+DB Subnet Group
+DB Cluster
+Sort key
+Table name
+Primary key
+
+Correct
+Table name
+Primary key
+
+13.Question 13
+IAM Roles are associated with a specific user or group.
+
+True
+False
+
+Correct
+False
+
+14.Question 14
+Amazon DynamoDB is what type of database solution?
+
+Non-relational, NoSQL database
+Relational, SQL database
+
+Correct
+Non-relational, NoSQL database

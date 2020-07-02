@@ -1,0 +1,21 @@
+Amazon API Gateway
+
+1.Question 1
+Amazon API Gateway is used to create a content distribution network.
+
+True
+False
+
+Correct
+False
+
+2.Question 2
+CORS is configured in which Amazon service?
+
+AWS Lambda
+Amazon S3
+Amazon API Gateway
+Amazon CloudFront
+
+Correct
+Amazon API Gateway
