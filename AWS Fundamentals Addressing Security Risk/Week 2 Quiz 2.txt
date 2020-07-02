@@ -1,0 +1,57 @@
+Week 2 Quiz 2
+
+1.Question 1
+What AWS Services keeps a record of who is interacting with your AWS Account?
+
+Amazon ServiceLog
+Amazon Auditor
+AWS AccountMonitor
+AWS CloudTrail
+
+Correct
+AWS CloudTrail
+
+2.Question 2
+Which of the following are monitoring and logging services available on AWS? Select all that apply.
+
+AWS CloudWatch
+AWS CloudLogger
+Amazon Beehive
+Amazon Config
+
+Correct
+AWS CloudWatch
+Amazon Config
+
+3.Question 3
+Which of the following sections from Trusted Advisor exists under the Well-Architected Framework as a pillar as well?
+
+Cost Transparency
+Operational Excellence
+Security
+Fault Tolerance
+
+Correct
+Security
+
+4.Question 4
+If you wanted to accomplish threat detection in your AWS Infrastructure, which of the following services would you use?
+
+AWS GuardDuty
+Amazon ThreatDetector
+Amazon S3
+AWS DynamoDB
+
+Correct
+AWS GuardDuty
+
+5.Question 5
+Which AWS Service has an optional agent that can be deployed to EC2 instances to perform a security assessment?
+
+AWS Assessor
+Amazon Inspector
+AWS EC2Deploy
+Amazon Agent
+
+Correct
+Amazon Inspector

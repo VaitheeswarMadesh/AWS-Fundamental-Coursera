@@ -1,0 +1,60 @@
+Week 1 Quiz 1
+
+1.Question 1
+What security mechanism can add an extra layer of protection to your AWS account in addition to a username password combination?
+
+T​ransport Layer Protocol or TCP
+M​ult-factor Authentication or MFA
+I​ris Scan Service or ISS
+S​cure Bee Service or SBS
+
+Correct
+M​ult-factor Authentication or MFA
+
+2.Question 2
+If a user wanted to read from a DynamoDB table what policy would you attach to their user profile?
+
+AmazonDynamoDBFullAccess
+AWSLambdaInvocation-DynamoDB
+AmazonDynamoDBReadOnlyAccess
+AWSLambdaDynamoDBExecutionRole
+
+Correct
+AmazonDynamoDBReadOnlyAccess
+
+3.Question 3
+What are valid MFA or Multi-factor Authentication options available to use on AWS? Select all that apply.
+
+Gemalto token
+Blizzard Authenticator
+yubiKey
+Google Authenticator
+AWS IoT button
+
+Correct
+Gemalto token,yubiKey,Google Authenticator
+
+4.Question 4
+What format is an Identity and Access Management policy document in?
+
+X​ML
+H​TML
+C​SV
+J​SON
+
+Correct
+J​SON
+
+5.Question 5
+Which are valid options for interacting with your AWS account? Select all that apply.
+
+Command Line Interface
+Software Development Kit
+Application Programming Interface
+AWS Console
+
+Correct
+Command Line Interface
+Software Development Kit
+Application Programming Interface
+AWS Console
