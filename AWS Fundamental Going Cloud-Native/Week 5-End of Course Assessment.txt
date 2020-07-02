@@ -1,0 +1,160 @@
+End of Course Assessment
+
+1.Question 1
+What is AWS Trusted Advisor?
+
+AWS service that helps you manage access to your account
+Online tool that helps you configure resources to follow best practices
+Partner program that helps you validate your application deployment
+Professional Services offering that helps you migrate to the cloud
+
+Correct
+Online tool that helps you configure resources to follow best practices
+
+2.Question 2
+What is the AWS term for physically distinct groups of data centers?
+
+Region
+Availability Zone
+Edge location
+Cluster
+
+Correct
+Availability Zone
+
+3.Question 3
+Who owns and maintains the infrastructure required for application services for customers to provision and use?
+
+System Administrators
+AWS customers
+Amazon Web Services
+Dev Ops
+
+Correct
+Amazon Web Services
+
+4.Question 4
+An AMI is a template that contains a software configuration such as an operating system, application server, and applications.
+
+True
+False
+
+Correct
+True
+
+5.Question 5
+Which of the following statements best describes Auto Scaling?
+
+Monitors the usage of AWS resources to manage load balancing
+Pre-configured templates for your instances that package the bits you need for your server
+Increases or decreases compute resources on demand to meet your deployment needs and minimize costs
+Provides high throughput and low latency
+
+Correct
+Increases or decreases compute resources on demand to meet your deployment needs and minimize costs
+
+6.Question 6
+Which of the following statements best describes Amazon RDS?
+
+A database engine that can be used with MySQL server, Oracle, Microsoft SQL server, PostgreSQL, and Amazon Aurora.
+A fast, fully managed, petabyte-scale data warehouse solution used to efficiently analyze all your data using your existing business intelligence tools.
+A very high throughput, very low latency, fast NoSQL database service.
+An in-memory caching service.
+
+Correct
+A database engine that can be used with MySQL server, Oracle, Microsoft SQL server, PostgreSQL, and Amazon Aurora.
+
+7.Question 7
+Unlike RDS, with Amazon DynamoDB you don’t need to define the underlying hardware you’re running your database on.
+
+False
+True
+
+Correct
+True
+
+8.Question 8
+What type of storage is Amazon S3 used for?
+
+Image
+File
+Block
+Object
+
+Correct
+Object
+
+9.Question 9
+Databases and EC2 instances are most performant using block-level storage.
+
+False
+True
+
+Correct
+True
+
+10.Question 10
+You’ve uploaded a PDF document to your S3 bucket. When you try to access the object’s URL, you get an error. What could be the cause of this error?
+
+Your object doesn’t have private read access.
+You’ve exceeded the maximum upload size.
+You can’t upload a PDF document to S3.
+Your object doesn’t have public read access.
+
+Correct
+Your object doesn’t have public read access.
+
+11.Question 11
+What is an advantage of using Amazon EFS over Amazon EBS?
+
+EBS can only live in one subnet.
+EFS can be attached to multiple EC2 instances simultaneously.
+EFS can only live in one subnet.
+EBS can be attached to multiple EC2 instances simultaneously.
+
+Correct
+EFS can be attached to multiple EC2 instances simultaneously.
+
+12.Question 12
+When creating a VPC, what items must you include? (Select two)
+
+IP Range
+Internet Gateway
+Security Group
+Region
+
+Correct
+IP Range, Region
+
+13.Question 13
+Which of the following is NOT an advantage of AWS cloud computing over on-premise computing?
+
+Pay-as-you-go pricing
+Broad selection of hardware and software resources over the internet
+Provision compute capacity on-demand
+Large upfront investments in physical servers
+
+Correct
+Large upfront investments in physical servers
+
+14.Question 14
+Which AWS service allows you to use compute capacity without worrying about provisioning or managing underlying hardware?
+
+Amazon Lightsail
+Amazon DynamoDB
+Amazon ECS
+Amazon S3
+
+Correct
+Amazon Lightsail
+
+15.Question 15
+According to the lecture, why does AWS exist?
+
+To replace all your hardware
+To replace your entire IT department
+To create more server space
+To eliminate heavy-lifting tasks for your IT department
+
+Correct
+To eliminate heavy-lifting tasks for your IT department

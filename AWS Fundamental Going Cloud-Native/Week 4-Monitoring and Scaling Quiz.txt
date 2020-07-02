@@ -1,0 +1,52 @@
+Monitoring and Scaling Quiz
+
+1.Question 1
+What service distributes incoming traffic across multiple instances?
+
+Amazon ELB
+Amazon S3
+Amazon EBS
+Amazon EFS
+
+Correct
+Amazon ELB
+
+2.Question 2
+Amazon ELB can only be used with public subnets.
+
+False
+True
+
+Correct
+False
+
+3.Question 3
+Your users are reporting latency in your services. Traditionally with on premise architecture, you would have to page your admin so she could launch another server to balance the load on your servers. How can you automate this with AWS?
+
+Create an Amazon CloudWatch Alarm that triggers an Auto Scaling policy.
+Ask your users to upload all their data to Amazon S3.
+Setup Amazon Cloudtrail to monitor latency issues.
+Create two EC2 instances so you never run into this issue.
+
+Correct
+Create an Amazon CloudWatch Alarm that triggers an Auto Scaling policy.
+
+4.Question 4
+When creating an Auto Scaling group, you must define the minimum and maximum number of instances to scale to.
+
+False
+True
+
+Correct
+True
+
+5.Question 5
+Which of the following statements best describes Auto Scaling?
+
+Pre-configured templates for your instances that package the bits you need for your server
+Provides high throughput and low latency
+Monitors the usage of AWS resources to manage load balancing
+Increases or decreases compute resources on demand to meet your deployment needs and minimize costs
+
+Correct
+Increases or decreases compute resources on demand to meet your deployment needs and minimize costs
