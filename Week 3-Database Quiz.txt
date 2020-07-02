@@ -1,0 +1,42 @@
+Database Quiz
+
+1.Question 1
+Which of the following database challenges does Amazon RDS help you manage? (Select all that apply)
+
+Server maintenance
+Schema generation
+High availability
+Database backups
+OS patches and installation
+
+Correct
+Server maintenance, High availability, Database backups, OS patches and installation 
+
+2.Question 2
+Which of the following statements best describes Amazon RDS?
+
+A fast, fully managed, petabyte-scale data warehouse solution used to efficiently analyze all your data using your existing business intelligence tools.
+A database engine that can be used with MySQL server, Oracle, Microsoft SQL server, PostgreSQL, and Amazon Aurora.
+An in-memory caching service.
+A very high throughput, very low latency, fast NoSQL database service.
+
+Correct
+A database engine that can be used with MySQL server, Oracle, Microsoft SQL server, PostgreSQL, and Amazon Aurora.
+
+3.Question 3
+When creating a new database through RDS, you can view the estimated monthly costs before you provision your database.
+
+False
+True
+
+Correct
+True
+
+4.Question 4
+Unlike RDS, with Amazon DynamoDB you don’t need to define the underlying hardware you’re running your database on.
+
+False
+True
+
+Correct
+True

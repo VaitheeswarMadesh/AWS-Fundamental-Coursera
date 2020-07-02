@@ -1,0 +1,71 @@
+Storage Quiz
+
+1.Question 1
+What type of storage is Amazon S3 used for?
+
+Object
+Block
+File
+Image
+
+Correct
+Object
+
+2.Question 2
+Databases and EC2 instances are most performant using block-level storage.
+
+False
+True
+
+Correct
+True
+
+3.Question 3
+It’s end of the day Friday and you decided to stop your EC2 instance that’s connected to your EBS volumes. On Monday morning, your developer starts up a brand new EC2 instance. What happens to your EBS volumes when you start up a new EC2 instance?
+
+Nothing. You cannot start up a brand new EC2 instance.
+The EBS volumes are terminated
+The same EBS volumes can be reattached to the new EC2 instance
+
+Correct
+The same EBS volumes can be reattached to the new EC2 instance
+
+4.Question 4
+You must create an S3 bucket before uploading your data to S3.
+
+True
+False
+
+Correct
+True
+
+5.Question 5
+You’ve uploaded a PDF document to your S3 bucket. When you try to access the object’s URL, you get an error. What could be the cause of this error?
+
+Your object doesn’t have private read access.
+You can’t upload a PDF document to S3.
+You’ve exceeded the maximum upload size.
+Your object doesn’t have public read access.
+
+Correct
+Your object doesn’t have public read access.
+
+6.Question 6
+Amazon EBS can attach to only one EC2 instance at a time.
+
+False
+True
+
+Correct
+True
+
+7.Question 7
+What is an advantage of using Amazon EFS over Amazon EBS?
+
+EFS can be attached to multiple EC2 instances simultaneously.
+EBS can only live in one subnet.
+EFS can only live in one subnet.
+EBS can be attached to multiple EC2 instances simultaneously.
+
+Correct
+EFS can be attached to multiple EC2 instances simultaneously.
