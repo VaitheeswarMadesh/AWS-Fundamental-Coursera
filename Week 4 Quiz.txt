@@ -1,0 +1,81 @@
+Week 4 Quiz
+
+1.Question 1
+W​hich of the following are valid Pillars of the Well-Architected Framework? Choose two.
+
+Security
+I​nfrastructure
+Cost Optimization
+Redundancy
+Speed
+
+
+Correct
+Security
+Cost Optimization
+
+2.Question 2
+W​hat language does Amazon Athena support?
+
+​SQL
+J​ava
+C​++
+d​ogescript
+
+Correct
+SQL
+
+3.Question 3
+What is the name of the model that shows how security is handled by AWS and it’s customers in the AWS Cloud?
+
+Cloud Security Model
+Role Based Model
+Shared Responsibility Model
+AWS Authentication Model
+
+Correct
+Shared Responsibility Model
+
+4.Question 4
+What AWS Service is best suited for storing objects?
+
+Amazon Simple Storage Service
+Amazon Elastic Beanstalk
+Amazon DynamoDB
+Amazon Object Store
+
+Correct
+Amazon Simple Storage Service
+
+5.Question 5
+What AWS service can be used to manage multiple AWS Accounts for consolidated billing?
+
+AWS Multiple-man
+AWS Account Manager
+AWS Billing
+AWS Organizations
+
+Correct
+AWS Organizations
+
+6.Question 6
+Which AWS Service supports threat detection by continuously monitoring for malicious or unauthorized behavior?
+
+Amazon IDP
+Amazon Knight
+Amazon Monitor
+Amazon GuardDuty
+
+Correct
+Amazon GuardDuty
+
+7.Question 7
+What is a customer access endpoint?
+
+A customer token
+A signed code segment
+A URL entry point for a web service
+A websocket for customer connections
+
+Correct
+A URL entry point for a web service

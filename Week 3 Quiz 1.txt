@@ -1,0 +1,34 @@
+Week 3 Quiz 1
+
+1.Question 1
+What requirement must you adhere to in order to deploy an AWS CloudHSM?
+
+Run the HSM in two regions
+Provision the HSM in a VPC
+Deploy an EBS volume for the HSM
+Call AWS Support first to enable it
+
+Correct
+Provision the HSM in a VPC
+
+2.Question 2
+What AWS KMS keys are used to encrypt and decrypt data in AWS?
+
+Customer master keys
+AWS master keys
+Seller recrypt keys
+User recrypt keys
+
+Correct
+Provision the HSM in a VPC
+
+3.Question 3
+How much data can you encrypt/decrypt using an Customer Master Key?
+
+Up to 4MB
+Up to 4TB
+Up to 1MB
+Up to 4KB
+
+Correct
+Up to 4KB
